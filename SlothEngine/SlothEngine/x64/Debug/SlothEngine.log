@@ -1,0 +1,18 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+D:\Skolarbete\SlothEngine\SlothEngine\FX_HLSL\LightHelper.fx(196,25-45): warning X3206: 'dot': implicit truncation of vector type
+D:\Skolarbete\SlothEngine\SlothEngine\FX_HLSL\LightHelper.fx(202,15-40): warning X3206: 'reflect': implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\Skolarbete\SlothEngine\x64\Debug\LightHelper.cso
+  winmain .cpp
+  Timer.cpp
+  ShadowMapping.cpp
+  Input.cpp
+  Camera.cpp
+  BinImporter.cpp
+  Generating Code...
+  Core.cpp
+d:\skolarbete\slothengine\slothengine\source\core.cpp(867): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Reader.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1199,5): warning MSB8012: TargetExt(2.exe) does not match the Linker's OutputFile property value (.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1200,5): warning MSB8012: TargetName(SlothEngine) does not match the Linker's OutputFile property value (SlothEngine2). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  SlothEngine.vcxproj -> D:\Skolarbete\SlothEngine\x64\Debug\SlothEngine2.exe

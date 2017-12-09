@@ -1,0 +1,9 @@
+﻿  Core.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  38 of 693 functions ( 5.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SlothEngine.vcxproj -> F:\SlothEngine\x64\Release\SlothEngine.exe
+  SlothEngine.vcxproj -> F:\SlothEngine\x64\Release\SlothEngine.pdb (Full PDB)

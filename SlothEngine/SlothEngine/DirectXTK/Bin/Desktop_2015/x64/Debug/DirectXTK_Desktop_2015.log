@@ -1,0 +1,9 @@
+﻿Build started 3/14/2017 7:18:41 PM.
+     1>Project "H:\AnimationEngine\SlothEngine\DirectXTK\DirectXTK_Desktop_2015.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         DirectXTK_Desktop_2015.vcxproj -> H:\AnimationEngine\SlothEngine\DirectXTK\Bin\Desktop_2015\x64\Debug\DirectXTK.lib
+     1>Done Building Project "H:\AnimationEngine\SlothEngine\DirectXTK\DirectXTK_Desktop_2015.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
